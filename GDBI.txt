@@ -1,0 +1,2 @@
+client_id: kqk503eve71nlfvkt8hb3zt3d5xfj6
+client_secret: hx47ht2jqnlbtifwrqyq0w8k2y5aba
